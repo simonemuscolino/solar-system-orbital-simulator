@@ -36,11 +36,21 @@ Note: This is a **simplified model** (no gravitational interactions between plan
 
 ---
 
-## Preview
+## Visualizations
 
-![Simulation](solar_system.gif)
+### Inner Solar System (Zoomed View)
+
+This view highlights the inner planets (Mercury, Venus, Earth, Mars), making their orbital structure clearly visible.
+
+![Inner Solar System](inner_solar_system.png)
 
 ---
+
+### Outer Solar System (Full Scale)
+
+This visualization shows the complete Solar System, including gas giants and outer planets.
+
+![Outer Solar System](outer_solar_system.png)
 
 ## Future Improvements
 
